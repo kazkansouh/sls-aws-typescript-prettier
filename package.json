@@ -1,0 +1,16 @@
+{
+  "name": "ts-aws-nodejs14",
+  "version": "0.1.0",
+  "description": "Template for AWS serverless applications written in typescript.",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.83",
+    "@typescript-eslint/eslint-plugin": "^4.32.0",
+    "@typescript-eslint/parser": "^4.32.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.4.1",
+    "serverless": "^2.60.3",
+    "serverless-plugin-typescript": "^2.1.0"
+  }
+}
